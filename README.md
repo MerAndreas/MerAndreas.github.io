@@ -1,6 +1,6 @@
 # About Mer Andreas S. Jorgio
 
-Welcome to my portfolio! I'm a Computer Science student at Colegio de Jesus (CJC) with a passion for analytical problem-solving and creative game development.
+Welcome to my portfolio! I'm a Computer Science student at Cor Jesu College (CJC) with a passion for analytical problem-solving and creative game development.
 
 🔗 **[Explore my full portfolio](https://merandreas.github.io/MerAndreasPortfolio/)**
 
@@ -28,7 +28,7 @@ I'm a driven developer and computer science enthusiast with a strong analytical 
 
 ## My Journey
 
-Currently, I'm pursuing my Bachelor of Science in Computer Science while working on diverse projects ranging from augmented reality applications to backend systems and machine learning implementations. My academic foundation at Colegio de Jesus and prior education at De La Salle University-Dasmariñas (with honors) has shaped my analytical approach to technology.
+Currently, I'm pursuing my Bachelor of Science in Computer Science while working on diverse projects ranging from augmented reality applications to backend systems and machine learning implementations. My academic foundation at Cor Jesu College and prior education at Digos City National High School STVEP specializing in Programming (with honors) has shaped my analytical approach to technology.
 
 ## Projects & Experience
 
@@ -49,34 +49,3 @@ I'm always open to interesting conversations about technology, game development,
 **Location**: Philippines  
 **Current Status**: BSCS Student at CJC (2022-Present)  
 **Interests**: Game Dev, Data Science, Cybersecurity, Backend Architecture
-
-## Performance
-
-- Page load time: ~200ms (cached)
-- Fully responsive
-- Optimized images and minimal CSS
-- No external dependencies (except Google Fonts)
-
-## Future Enhancements
-
-Consider adding:
-- Blog section for articles
-- Project showcase with images
-- Dark mode toggle
-- Contact form
-- Analytics tracking
-- PDF download of CV
-
-## License
-
-Free to use and modify for personal portfolio purposes.
-
-## Support
-
-For GitHub Pages issues:
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [GitHub Pages Troubleshooting](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
-
----
-
-**Happy sharing! 🎉**
